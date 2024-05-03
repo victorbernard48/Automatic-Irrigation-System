@@ -10,7 +10,7 @@ This project implements an automated plant irrigation system designed specifical
 ## Overview
 This project aims to automate home irrigation using an ESP32 board equipped with a DHT22 sensor and a solar pump. The automation is facilitated through Mosquitto MQTT and Node-RED installed on a Raspberry Pi acting as the automation hub. The ESP32 board is installed in the balcony to automatically water plants based on environmental conditions and user-defined schedules.
 ## Schematic
-![alt text]()
+![alt text](https://raw.githubusercontent.com/victorbernard48/Automatic-Irrigation-System/main/Automatic%20Balcony%20Plants%20irrigation%20System.drawio%20Light.png)
 
 ## Hardware
 1. Hardware Requirements:
