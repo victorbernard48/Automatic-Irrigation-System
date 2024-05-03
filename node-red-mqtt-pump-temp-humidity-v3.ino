@@ -27,7 +27,7 @@ const int   daylightOffset_sec = 0;
 
 // Add your MQTT Broker IP address, example:
 //const char* mqtt_server = "192.168.1.144";
-const char* mqtt_server = "192.168.1.22";
+const char* mqtt_server = "ENTER Your MQTT Broker IP address here ex.above";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
